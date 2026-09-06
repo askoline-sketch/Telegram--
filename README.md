@@ -25,3 +25,16 @@ git clone https://github.com/askoline-sketch/Telegram--.git
 cd Telegram--
 pip install pyTelegramBotAPI requests
 python3 my_bot.py
+
+    📋 Команды
+Команда	Описание
+/start	Приветствие + меню
+/help	Список команд
+/menu	Вызов клавиатуры
+/time	Текущее время
+/date	Текущая дата
+/info	Информация о боте
+/weather <город>	Прогноз погоды
+
+    👨‍💻 Автор
+askoline-sketch
