@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Секреты — НЕ загружать на GitHub!
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
